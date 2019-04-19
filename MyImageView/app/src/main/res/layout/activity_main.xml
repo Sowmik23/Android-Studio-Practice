@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#000"
+    android:padding="20dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+
+        android:id="@+id/Image1id"
+        android:src="@drawable/sowmik"
+        android:scaleType="fitXY"
+        android:layout_marginBottom="10dp"
+        />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+
+        android:id="@+id/Image2id"
+        android:src="@drawable/sowmik2"
+        android:scaleType="fitXY"
+        />
+
+
+
+</LinearLayout>

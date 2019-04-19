@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeid"
+        android:title="Home"
+        android:icon="@drawable/ic_home_icon"
+        >
+    </item>
+
+    <item
+        android:id="@+id/myprofileid"
+        android:title="My Profile"
+        android:icon="@drawable/ic_person_profile"
+        >
+    </item>
+
+    <item
+        android:id="@+id/settingid"
+        android:title="Setting"
+        android:icon="@drawable/ic_settings_icon"
+        >
+    </item>
+
+    <item
+        android:id="@+id/helpid"
+        android:title="Help"
+        android:icon="@drawable/ic_help_icon"
+        >
+    </item>
+
+    <item
+        android:id="@+id/feedbackid"
+        android:title="Feedback"
+        android:icon="@drawable/ic_feedback_icon"
+        >
+
+
+    </item>
+
+    <item
+        android:id="@+id/signoutid"
+        android:title="Sign Out"
+        >
+
+
+    </item>
+
+</menu>

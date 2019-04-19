@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="1">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".AlertAcitivity"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_marginTop="60dp"
+        android:layout_height="70dp"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:text="Reminder"
+        android:textAlignment="center"/>
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="255dp"
+       android:layout_marginTop="30dp"
+       android:layout_marginLeft="30dp"
+       android:layout_marginRight="30dp"
+       android:padding="20dp"
+       android:src="@drawable/ic_access_alarms_black_24dp" />
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:textStyle="bold"
+        android:text="You have a journey"
+        android:textAlignment="center"
+        android:textSize="30dp"/>
+
+    <Button
+        android:id="@+id/close"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Dismiss"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:padding="20dp"
+        android:textSize="25dp"/>
+</LinearLayout>
+    </TableLayout></ScrollView>

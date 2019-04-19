@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1030116994788",
+    "firebase_url": "https://mycards-da55d.firebaseio.com",
+    "project_id": "mycards-da55d",
+    "storage_bucket": "mycards-da55d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030116994788:android:dcee474afe299f69",
+        "android_client_info": {
+          "package_name": "edu.univdhaka.cse.cse2216.mycards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030116994788-gptjhhcvtmqk3fqno7u160qk8hv1al1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNr1xdHsAh-1Zpc6YdMvMN-a09hQZqsKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/card_type"/>
+
+        <TextView
+            android:id="@+id/card_type_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            tools:text="VISA"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/card_issuing_bank_name"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/bank_name_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            tools:text="Standard Chartered Bank Ltd."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/card_number"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/card_number_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            tools:text="1234 5678 9101 1213"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cardholder_name"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/cardholder_name_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            tools:text="SHARAFAT MOSHARRAF"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/expiry_date"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/expiry_date_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            tools:text="12/21"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cvv"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/cvv_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            tools:text="123"/>
+
+    </LinearLayout>
+
+</ScrollView>

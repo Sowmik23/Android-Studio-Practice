@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:orientation="vertical"
+
+    android:padding="20dp"
+
+    tools:context=".second_page_activity"
+    >
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="end"
+        android:text="Profile"
+        android:id="@+id/profileid"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginBottom="100dp"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        >
+
+        <Button
+            android:layout_marginLeft="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Search Train"
+            android:id="@+id/search_trainid"
+            android:textSize="15sp"
+            android:textStyle="bold"
+
+            android:layout_marginRight="60dp"
+
+            />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Locate Train"
+            android:id="@+id/locate_trainid"
+            android:textSize="15sp"
+            android:textStyle="bold"
+
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        >
+
+        <Button
+            android:layout_marginLeft="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Travel History"
+            android:id="@+id/travel_historyid"
+            android:textSize="15sp"
+            android:textStyle="bold"
+
+            android:layout_marginRight="60dp"
+
+            />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Train Info"
+            android:id="@+id/train_infoid"
+            android:textSize="15sp"
+            android:textStyle="bold"
+
+            />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

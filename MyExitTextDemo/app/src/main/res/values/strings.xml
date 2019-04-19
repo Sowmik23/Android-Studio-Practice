@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyExitTextDemo</string>
+    <string name="str1">Enter First Number</string>
+    <string name="str2">Enter Second Number</string>
+    <string name="button1">ADD</string>
+    <string name="button2">SUB</string>
+</resources>

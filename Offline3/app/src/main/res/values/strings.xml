@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Offline3</string>
+
+
+    <string name="option1">Search Train</string>
+    <string name="option2">Locate Train</string>
+    <string name="option3">Train Info</string>
+    <string name="option4">Travel History</string>
+    <string name="option5">Profile</string>
+</resources>

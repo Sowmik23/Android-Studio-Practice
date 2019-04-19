@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+
+    android:collapseColumns=""
+    android:stretchColumns="1"
+    android:background="#22d6ff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TableRow
+        android:id="@+id/tablerowtitleid"
+        android:layout_marginTop="20dp">
+
+        <TextView
+
+            android:layout_gravity="center_horizontal"
+            android:layout_span="4"
+            android:text="Student Details"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/headerid"
+        android:background="#7830f8">
+
+        <TextView
+
+            android:text="ID"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="Name"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="CGPA"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="Hometown"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/row3id"
+        android:background="#cfc2f5">
+
+        <TextView
+
+            android:text="1001"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="Abdul Hadi"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="3.81"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="Nokio"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+
+
+    </TableRow>
+    <TableRow
+
+        android:id="@+id/row4id"
+        android:background="#cfc2f5">
+
+        <TextView
+
+            android:text="1002"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="Malek Khan"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="3.75"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="Birbhum"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+
+
+    </TableRow>
+    <TableRow
+
+        android:id="@+id/row5id"
+        android:background="#cfc2f5">
+
+        <TextView
+
+            android:text="1003"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="Nokia Hasan"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="3.69"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+        <TextView
+
+            android:text="Khilgaon"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/buttonid"
+        >
+
+        <Button
+            android:text="Submit"
+            android:layout_column="2"
+            android:textSize="16sp"
+            />
+<!--joto number column er niche bosabo toto dite hobe-->
+
+        <Button
+            android:text="Clear"
+            android:layout_column="2"
+            android:textSize="16sp"
+            />
+
+    </TableRow>
+
+
+</TableLayout>

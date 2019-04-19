@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Cards</string>
+    <string name="card_number">Card Number:</string>
+    <string name="card_type">Card Type:</string>
+</resources>

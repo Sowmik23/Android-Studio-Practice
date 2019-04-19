@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyGridView</string>
+    <string-array name="country_names">
+
+        <item> Afganistan </item>
+        <item> Azerbizan </item>
+        <item> Armenia </item>
+        <item> Algeria </item>
+        <item> Albenia </item>
+        <item> Africa </item>
+        <item> America </item>
+        <item> Australia </item>
+        <item> Arab-Amirat </item>
+        <item> Bangladesh </item>
+        <item> Bahama </item>
+        <item> Barma </item>
+        <item> China </item>
+        <item> Chili </item>
+        <item> Canada </item>
+        <item> Damesko </item>
+        <item> Pakistan </item>
+        <item> Panjab </item>
+        <item> Peru </item>
+        <item> Korea</item>
+        <item> Kuet </item>
+        <item> Kania </item>
+        <item> Sudan </item>
+        <item> Suizerland </item>
+        <item> Suiden </item>
+        <item> Singapur</item>
+        <item> Maldive</item>
+        <item> Morokko</item>
+        <item> Japan</item>
+        <item> Jordern</item>
+        <item> Jakarta</item>
+        <item> France</item>
+        <item> India</item>
+        <item> Indonesia</item>
+        <item> Irak</item>
+        <item> Iran</item>
+
+    </string-array>
+
+</resources>

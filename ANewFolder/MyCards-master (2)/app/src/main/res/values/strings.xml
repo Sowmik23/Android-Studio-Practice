@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Cards</string>
+    <string name="card_issuing_bank_name">Card Issuing Bank Name</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_type">Card Type</string>
+    <string name="cardholder_name">Cardholder Name</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvv">CVV</string>
+    <string name="add_card">Add Card</string>
+    <string name="edit_card">Edit Card</string>
+    <string name="remove_card">Remove Card</string>
+    <string name="save">Save</string>
+    <string name="card_details">Card Details</string>
+    <string name="required">Please enter a value</string>
+    <string name="card_save_success">Card saved successfully.</string>
+    <string name="card_delete_success">Card deleted.</string>
+    <string name="delete_card_confirmation_title">Delete Card?</string>
+    <string name="delete_card_confirmation_message">Are you sure you want to delete this card?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="card_types">
+        <item>Visa</item>
+        <item>Master</item>
+        <item>American Express</item>
+        <item>Discover</item>
+    </string-array>
+</resources>

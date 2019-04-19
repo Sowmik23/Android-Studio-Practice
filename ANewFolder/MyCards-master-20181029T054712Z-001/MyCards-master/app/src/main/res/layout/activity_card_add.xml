@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.AddEditCardActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:labelFor="@+id/bank_name_input"
+            android:text="@string/card_type"/>
+
+        <Spinner
+            android:id="@+id/card_type_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/card_types"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:labelFor="@+id/bank_name_input"
+            android:text="@string/card_issuing_bank_name"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/bank_name_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapWords"
+            android:importantForAutofill="no"
+            tools:targetApi="o"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:labelFor="@+id/card_number_input"
+            android:text="@string/card_number"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/card_number_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:importantForAutofill="no"
+            tools:targetApi="o"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:labelFor="@+id/cardholder_name_input"
+            android:text="@string/cardholder_name"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/cardholder_name_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapCharacters"
+            android:importantForAutofill="no"
+            tools:targetApi="o"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+            android:baselineAligned="false"
+            android:layout_marginTop="8dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/expiry_date"/>
+
+                <EditText
+                    android:id="@+id/expiry_date_input"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:maxLength="5"
+                    android:hint="MM/YY"
+                    android:importantForAutofill="no"
+                    tools:targetApi="o"
+                    tools:ignore="HardcodedText,TextFields"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1"
+                android:layout_marginStart="8dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:labelFor="@+id/cvv_input"
+                    android:text="@string/cvv"/>
+
+                <EditText
+                    android:id="@+id/cvv_input"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="4"
+                    android:importantForAutofill="no"
+                    tools:targetApi="o"
+                    tools:ignore="TextFields"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

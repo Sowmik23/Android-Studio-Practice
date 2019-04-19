@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CountryProfileProject</string>
+    <string name="bangladesh_button">Bangladesh</string>
+    <string name="india_button">India</string>
+    <string name="pakistan_button">Pakistan</string>
+
+
+    <string name="bangladesh_text">
+    Bangladesh:\n\n
+        the largest and easternmost part of the Bengal region.[12] Bangladeshis include people from a range \n
+        of ethnic groups and religions. Bengalis, who speak the official Bengali language, make up 98% of \n
+        the population.[2][3] The politically dominant Bengali Muslims make the nation the worlds third\n
+        largest Muslim-majority country. Islam is the official religion of Bangladesh.[13][14]\n
+    </string>
+
+    <string name="india_text">
+    India: \n\n
+        the largest and easternmost part of the Bengal region.[12] Bangladeshis include people from a range \n
+        of ethnic groups and religions. Bengalis, who speak the official Bengali language, make up 98% of \n
+        the population.[2][3] The politically dominant Bengali Muslims make the nation the worlds third\n
+        largest Muslim-majority country. Islam is the official religion of Bangladesh.[13][14]\n
+    </string>
+
+    <string name="pakistan_text">
+
+    Pakistan: \n\n
+        the largest and easternmost part of the Bengal region.[12] Bangladeshis include people from a range \n
+        of ethnic groups and religions. Bengalis, who speak the official Bengali language, make up 98% of \n
+        the population.[2][3] The politically dominant Bengali Muslims make the nation the worlds third\n
+        largest Muslim-majority country. Islam is the official religion of Bangladesh.[13][14]\n
+    </string>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyRadioButton</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="button_text">Show</string>
+</resources>

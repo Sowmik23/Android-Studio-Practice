@@ -1,0 +1,4 @@
+#Thu Nov 22 16:37:50 BDT 2018
+base.0=/home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

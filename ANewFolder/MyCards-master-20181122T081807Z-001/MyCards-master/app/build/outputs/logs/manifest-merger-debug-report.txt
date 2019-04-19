@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/71cca81d5164221d55583cfb49b3a1cc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fd89e9606f27f32e4d37d90bb63aefcc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cd2575ecc9efc21d14cbc8ce202ba161/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/805a769679de8ade5e49b8c3fbaa2626/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4ff5ea92c47cd9eaf94efd398780c92b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e3ec56e6d234355ff150f689591870c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee18d1b8ae8b1a88f7a0ea0802108626/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7b93b8e50592ed33420322b1ef0416e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a7c559256b7da31b047dde74046e6b49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/783a6cfc69b786bc13f3c4bcf8dcc528/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/235996cd070d998e263400fa227c43c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a37297447d5119b376801eae835a919b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6d8ecc1455e005c91003b6a90da47558/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c0cc7f3d77d6a8833cc0e11ddf76eaa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1e0fdfb0184100504940b8325597fa8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4ca877db70b7622e135e9bd77462d4bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2a411c8341801ebb4f1ca36f0f6ce58d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85fb114e7ce5cadaf3a3cea1ad563833/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e6a4ba591a44b84ca10357fc6a09bb6c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7ad092d64fd1002bde96050fff39c7dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d1314e4426da0031712f9ee8f4c579ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d97307482405b29f4dab943856fd853d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/704a04798705af4676d0f204f438689a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5abd36cbac33eafff0b6dc78a1715768/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5e4703d12328e9c550cf7f26093eaf63/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e6ec38c74da7e3a17a5ca6c29204157b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/25606710d94145847df4f49570a2c8ae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b8d7a4802e7af0ce1c39c33d7e414343/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:4:5-48
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/71cca81d5164221d55583cfb49b3a1cc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/71cca81d5164221d55583cfb49b3a1cc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2a411c8341801ebb4f1ca36f0f6ce58d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2a411c8341801ebb4f1ca36f0f6ce58d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85fb114e7ce5cadaf3a3cea1ad563833/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85fb114e7ce5cadaf3a3cea1ad563833/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2a411c8341801ebb4f1ca36f0f6ce58d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#edu.univdhaka.cse.cse2216.mycards.activities.StartPage
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:13:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:17:27-74
+activity#edu.univdhaka.cse.cse2216.mycards.activities.CardDetailsActivity
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:20:9-68
+	android:name
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:20:19-65
+activity#edu.univdhaka.cse.cse2216.mycards.activities.AddEditCardActivity
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:21:19-65
+activity#edu.univdhaka.cse.cse2216.mycards.activities.CardListActivity
+ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:22:9-74
+	android:name
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml:22:19-62
+uses-sdk
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/71cca81d5164221d55583cfb49b3a1cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/71cca81d5164221d55583cfb49b3a1cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fd89e9606f27f32e4d37d90bb63aefcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/fd89e9606f27f32e4d37d90bb63aefcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cd2575ecc9efc21d14cbc8ce202ba161/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/cd2575ecc9efc21d14cbc8ce202ba161/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/805a769679de8ade5e49b8c3fbaa2626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/805a769679de8ade5e49b8c3fbaa2626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4ff5ea92c47cd9eaf94efd398780c92b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4ff5ea92c47cd9eaf94efd398780c92b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e3ec56e6d234355ff150f689591870c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e3ec56e6d234355ff150f689591870c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee18d1b8ae8b1a88f7a0ea0802108626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee18d1b8ae8b1a88f7a0ea0802108626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7b93b8e50592ed33420322b1ef0416e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7b93b8e50592ed33420322b1ef0416e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a7c559256b7da31b047dde74046e6b49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a7c559256b7da31b047dde74046e6b49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/783a6cfc69b786bc13f3c4bcf8dcc528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/783a6cfc69b786bc13f3c4bcf8dcc528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/235996cd070d998e263400fa227c43c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/235996cd070d998e263400fa227c43c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a37297447d5119b376801eae835a919b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a37297447d5119b376801eae835a919b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6d8ecc1455e005c91003b6a90da47558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6d8ecc1455e005c91003b6a90da47558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c0cc7f3d77d6a8833cc0e11ddf76eaa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c0cc7f3d77d6a8833cc0e11ddf76eaa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1e0fdfb0184100504940b8325597fa8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1e0fdfb0184100504940b8325597fa8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4ca877db70b7622e135e9bd77462d4bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4ca877db70b7622e135e9bd77462d4bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2a411c8341801ebb4f1ca36f0f6ce58d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2a411c8341801ebb4f1ca36f0f6ce58d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85fb114e7ce5cadaf3a3cea1ad563833/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85fb114e7ce5cadaf3a3cea1ad563833/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e6a4ba591a44b84ca10357fc6a09bb6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e6a4ba591a44b84ca10357fc6a09bb6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7ad092d64fd1002bde96050fff39c7dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7ad092d64fd1002bde96050fff39c7dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d1314e4426da0031712f9ee8f4c579ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d1314e4426da0031712f9ee8f4c579ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d97307482405b29f4dab943856fd853d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d97307482405b29f4dab943856fd853d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/704a04798705af4676d0f204f438689a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/704a04798705af4676d0f204f438689a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5abd36cbac33eafff0b6dc78a1715768/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5abd36cbac33eafff0b6dc78a1715768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5e4703d12328e9c550cf7f26093eaf63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5e4703d12328e9c550cf7f26093eaf63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e6ec38c74da7e3a17a5ca6c29204157b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e6ec38c74da7e3a17a5ca6c29204157b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/25606710d94145847df4f49570a2c8ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/25606710d94145847df4f49570a2c8ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b8d7a4802e7af0ce1c39c33d7e414343/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b8d7a4802e7af0ce1c39c33d7e414343/AndroidManifest.xml:20:5-44
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sowmik/Downloads/MyCards-master-20181122T081807Z-001/MyCards-master/app/src/main/AndroidManifest.xml

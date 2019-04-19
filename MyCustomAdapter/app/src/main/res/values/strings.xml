@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyCustomAdapter</string>
+
+    <string-array name="country_names">
+
+        <item>America</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Sre-Lanka</item>
+        <item>Nepal</item>
+        <item>China</item>
+        <item>Vutan</item>
+        <item>North korea</item>
+        <item>Russia</item>
+
+    </string-array>
+
+</resources>

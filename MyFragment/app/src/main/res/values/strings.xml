@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="details_sowmik">
+
+       \nName: Sree Sowmik Kumar Sarker.
+        \nAge: 21
+        \nPhone: 01750405780
+    </string>
+    <string name="details_jahid">
+
+       \nName: Md Jahid Hasan
+        \nAge: 21
+        \nPhone: 01750405780
+    </string>
+</resources>

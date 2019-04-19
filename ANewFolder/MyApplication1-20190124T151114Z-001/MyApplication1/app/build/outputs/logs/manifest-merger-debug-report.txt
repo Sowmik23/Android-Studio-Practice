@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40b782b5b3be285bf9ec999df04417be/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e9a96922ead930097b93cba5494a4de2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e561d91ad7bf7f54feaff45777830a68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/393d12b3101553c609f3d8190d0be357/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ca67a41e5590bbbef29d1c8d737e94e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/56513d2bbdaaa4cbd5b8522018890d36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fae81c9e172c43acb54aa22e10dedbd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2727a356b84e4cd8a0414da540be55e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bc3f8974bc3511b2454a89375be009b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7b5d8672636efea19630ce4286b04258/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5d10126181cbae2fdd57c41987468d5c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f91c58b5cdfe00779033fe3bbca117dd/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40b782b5b3be285bf9ec999df04417be/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40b782b5b3be285bf9ec999df04417be/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:11:9-53
+activity#com.example.antor.myapplication1.CreatedReminder
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:12:9-62
+	android:name
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:12:19-50
+activity#com.example.antor.myapplication1.AlertAcitivity
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:13:9-52
+	android:name
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:13:19-49
+activity#com.example.antor.myapplication1.MainActivity
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:18:27-74
+receiver#com.example.antor.myapplication1.Alarm
+ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:22:9-43
+	android:name
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml:22:19-40
+uses-sdk
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40b782b5b3be285bf9ec999df04417be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sowmik/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/40b782b5b3be285bf9ec999df04417be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e9a96922ead930097b93cba5494a4de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e9a96922ead930097b93cba5494a4de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e561d91ad7bf7f54feaff45777830a68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e561d91ad7bf7f54feaff45777830a68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/393d12b3101553c609f3d8190d0be357/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/393d12b3101553c609f3d8190d0be357/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ca67a41e5590bbbef29d1c8d737e94e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ca67a41e5590bbbef29d1c8d737e94e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/56513d2bbdaaa4cbd5b8522018890d36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/56513d2bbdaaa4cbd5b8522018890d36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fae81c9e172c43acb54aa22e10dedbd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fae81c9e172c43acb54aa22e10dedbd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2727a356b84e4cd8a0414da540be55e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sowmik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2727a356b84e4cd8a0414da540be55e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bc3f8974bc3511b2454a89375be009b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bc3f8974bc3511b2454a89375be009b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7b5d8672636efea19630ce4286b04258/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7b5d8672636efea19630ce4286b04258/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5d10126181cbae2fdd57c41987468d5c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5d10126181cbae2fdd57c41987468d5c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f91c58b5cdfe00779033fe3bbca117dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sowmik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f91c58b5cdfe00779033fe3bbca117dd/AndroidManifest.xml:20:5-44
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+		ADDED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sowmik/Downloads/MyApplication1-20190124T151114Z-001/MyApplication1/app/src/main/AndroidManifest.xml

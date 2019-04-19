@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MyExpandableListView</string>
+    <string-array name="expandable_list_header">
+        <item>SS</item>
+        <item>BSc</item>
+        <item>MS</item>
+        <item>BCom</item>
+        <item>BCS</item>
+        <item>DC</item>
+        <item>SI</item>
+        <item>SARC</item>
+        <item>ANSI</item>
+        <item>BSTI</item>
+        <item>JSC</item>
+        <item>JDC</item>
+        <item>SSC</item>
+        <item>HSC</item>
+        <item>CGPA</item>
+        <item>AM</item>
+        <item>PM</item>
+        <item>BBA</item>
+        <item>BA</item>
+        <item>MSC</item>
+        <item>MScAg</item>
+        <item>BScAg</item>
+        <item>MD</item>
+        <item>PhD</item>
+        <item>MPhil</item>
+        <item>VC</item>
+        <item>SP</item>
+    </string-array>
+
+    <string-array name="expandable_list_child">
+        <item>Sowmik Sarker\n\nThis is not my full name.\nBut my full name is Sree Sowmik Kumar Sarker.</item>
+        <item>Bachelor of Science.\n\nThis is one kind of bachelor degree of science students.</item>
+        <item>Master in Science.\n\nIt is higher degree than BSc degree for science students.</item>
+        <item>Bachelor in Commerce.\n\nThis degree is for commerce students.</item>
+        <item>Bangladesh Civil Service.\n\nThis is one of the most popular degree in Bangladesh.\nAlmost every student wants to achieve this degree.</item>
+        <item>District Commissioner.\n\nThe parents of a district.</item>
+        <item>Sub Inspector.</item>
+        <item>South Asian association of Regional Co-Operation.\n\nThis is an organization of Southest country in Asia.</item>
+        <item>American National Standard for International interchange.</item>
+        <item>Bangladesh Standard Trade Institute</item>
+        <item>Junior School Certificate.\n\nThis is a primary education in Bangladesh.</item>
+        <item>Junior Dakhil Certificate.\n\nThis is a certificate for Madrasha students.</item>
+        <item>Secondary School Certificate.\n\nMost famous exam in Bangladesh.</item>
+        <item>Higher Secondary Certificate.</item>
+        <item>Cumulative Grade Point Average.\n\nMost bad factor that differentiate the students.</item>
+        <item>Anti Meridian.</item>
+        <item>Post Meridian.</item>
+        <item>Bachelor of Business Administration.</item>
+        <item>Bachelor of Arts.</item>
+        <item>Master of Science.</item>
+        <item>Master of Science in Agriculture.</item>
+        <item>Bachelor of Science in Agriculture.</item>
+        <item>Managing Director.</item>
+        <item>Doctor of Philosophy.\n\nThis degree is both for arts and science students.</item>
+        <item>Master of Philosophy.\n\nThis degree is both for arts and science students.</item>
+        <item>Vice Chancellor.</item>
+        <item>Super of Police.</item>
+
+    </string-array>
+
+</resources>

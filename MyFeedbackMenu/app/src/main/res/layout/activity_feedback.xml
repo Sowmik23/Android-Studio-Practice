@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_weight="4"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#ff2"
+    tools:context=".FeedbackActivity">
+
+    <LinearLayout
+        android:layout_weight=".5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:hint="Enter your name"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/nameid"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_weight="1.5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+
+            android:gravity="start"
+            android:padding="10dp"
+            android:hint="Enter your Feedback"
+
+            android:background="#ffffff"
+            android:maxLines="30"
+            android:paddingTop="15dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+
+            android:id="@+id/feedid"
+            android:textStyle="italic"
+            android:textSize="17sp"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center">
+
+        <Button
+            android:layout_marginRight="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send"
+            android:id="@+id/sendid"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            style="@style/Base.Widget.AppCompat.Button.Colored"
+            />
+        <Button
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clear"
+            android:id="@+id/clearid"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            style="@style/Base.Widget.AppCompat.Button.Colored"
+            />
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

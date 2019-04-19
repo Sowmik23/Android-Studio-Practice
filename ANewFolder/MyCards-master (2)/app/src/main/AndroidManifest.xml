@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="edu.univdhaka.cse.cse2216.mycards">
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+
+        <!-- Kotlin activities -->
+        <activity android:name=".kotlin.activities.CardListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <!--<category android:name="android.intent.category.DEFAULT"/>-->
+            </intent-filter>
+        </activity>
+        <activity android:name=".kotlin.activities.CardDetailsActivity"/>
+        <activity android:name=".kotlin.activities.AddEditCardActivity"/>
+
+        <!-- Java activities -->
+        <activity android:name=".java.activities.CardListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".java.activities.AddEditCardActivity"/>
+        <activity android:name=".java.activities.CardDetailsActivity"/>
+
+    </application>
+
+</manifest>
